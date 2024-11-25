@@ -36,6 +36,7 @@ The following updates were applied to improve the functionality and completeness
   ```
 
 **Change Summary:** Replaced placeholder comments with a complete implementation for Logistic Regression training, prediction, and visualization.
+![image](https://github.com/user-attachments/assets/b873d4a9-3e68-49ea-8fd6-b5fc841767da)
 
 ---
 
@@ -60,6 +61,7 @@ The following updates were applied to improve the functionality and completeness
   ```
 
 **Change Summary:** Added code for training a Decision Tree classifier and generating a visual representation of the trained tree.
+![image](https://github.com/user-attachments/assets/3911cb84-74b6-4174-8722-feaa6e819dd0)
 
 ---
 
@@ -88,8 +90,10 @@ The following updates were applied to improve the functionality and completeness
 
 **Change Summary:** Completed the Random Forest implementation with training and visualization of feature importance.
 
+![image](https://github.com/user-attachments/assets/ac810530-a1ed-4a0c-8e55-28b37087cc0b)
 
 ---
+![image](https://github.com/user-attachments/assets/bb4de881-a799-43fa-b118-150c5399b1c8)
 
 
 ---
