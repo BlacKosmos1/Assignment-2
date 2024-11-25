@@ -53,6 +53,7 @@ The following updates were applied to improve the functionality and completeness
   ```
 
 **Change Summary:** Simplified redundant comments and adjusted formatting for improved readability.
+![image](https://github.com/user-attachments/assets/fc8189cc-1ff1-4037-a8bf-7f17d20725f2)
 
 ---
 
@@ -77,6 +78,7 @@ The following updates were applied to improve the functionality and completeness
   ```
 
 **Change Summary:** Replaced placeholder comments with functional code for training and evaluating the Logistic Regression model.
+![image](https://github.com/user-attachments/assets/5f1da2c5-9892-4b9f-b2ac-bdd3f3068dd1)
 
 ---
 
@@ -102,6 +104,7 @@ The following updates were applied to improve the functionality and completeness
   ```
 
 **Change Summary:** Provided a complete implementation of the Multilayer Perceptron (MLP) model, including initialization, training, and evaluation.
+![image](https://github.com/user-attachments/assets/2eb736a5-c1a1-47f2-b3d0-4738f802dde7)
 
 ---
 
@@ -131,6 +134,7 @@ The following updates were applied to improve the functionality and completeness
 **Change Summary:** Replaced placeholder code with a fully functional implementation for image detection using the YOLOv5 model.
 
 ---
+![image](https://github.com/user-attachments/assets/1d2a49ca-3abb-4866-9dc5-a8f06f1b81d3)
 
 
 ---
